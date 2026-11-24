@@ -1,7 +1,16 @@
-## Cara Menjalankan
+## FizzBuzz
 
-1. Buka terminal di dalam project ini.
-2. Jalankan perintah:
-  ```
-    npx tsx fizzbuzz.ts
-  ```
+### Installation
+<p>Follow these steps to running:</p>
+
+1. clone the repository
+
+       git clone https://github.com/ridha-arlian/technical-assessment.git
+
+2. Navigate to the project directory:
+
+       cd technical-assessment\fizzbuzz
+
+4. Run the application:
+
+       npx tsx fizzbuzz.ts
